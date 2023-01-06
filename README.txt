@@ -2,7 +2,7 @@ Thanks for stopping by the fifecode repository.
 
 As I learn new programming concepts, I like to see if I can apply the ideas to something useful. Thus each program file serves as an example where I'm trying out something (such as a function, loop, if statement) to solve a problem or perform a task.
 
-Thus far, these programs are in Python, my first actual language.
+These programs are in Python, my first actual language.
 (I'm not counting SQL, which use a lot in my data analyst job.)
 In time, I hope to gain more skill with Python AND branch out into other programming languages. (stay tuned!)
 
